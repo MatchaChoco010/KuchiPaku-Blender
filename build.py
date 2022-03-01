@@ -17,7 +17,7 @@ subprocess.call(
         "-t",
         "KuchiPaku/lib",
         "librosa",
-        "numpy",
+        "numba==0.53",
     ]
 )
 

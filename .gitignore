@@ -128,9 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# vscode
-/.vscode/
-
 
 # KuchiPaku
 KuchiPaku/lib/
+KuchiPaku.zip
